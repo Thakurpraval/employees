@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Anuj",
+    "gender": "Male",
+    "startDay": "19",
+    "startMonth": "February",
+    "startYear": "2026",
+    "notes": "good"
+  },
+  {
+    "id": "4555",
+    "Name": "aman",
+    "profilePic": "img1",
+    "gender": "Male",
+    "startDay": "18",
+    "startMonth": "January",
+    "startYear": "2026",
+    "notes": "good"
+  },
+  {
+    "id": "1",
+    "Name": "meenesh",
+    "profilePic": "img1",
+    "gender": "Female",
+    "startDay": "19",
+    "startMonth": "January",
+    "startYear": "2025",
+    "notes": "good girl",
+    "BasicSalary": "38000",
+    "Department": "CS"
+  },
+  {
+    "id": "2",
+    "Name": "Anuj",
+    "profilePic": "img1",
+    "gender": "Male",
+    "startDay": "21",
+    "startMonth": "January",
+    "startYear": "2025",
+    "notes": "good boy"
+  },
+  {
+    "id": "3",
+    "Name": "Manan",
+    "profilePic": "img1",
+    "gender": "Male",
+    "startDay": "21",
+    "startMonth": "January",
+    "startYear": "2025",
+    "notes": "good boy"
+  }
+]
